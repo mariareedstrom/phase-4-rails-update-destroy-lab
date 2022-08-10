@@ -1,4 +1,4 @@
-# Rails Update and Destroy Lab
+ # Rails Update and Destroy Lab
 
 ## Learning Goals
 
